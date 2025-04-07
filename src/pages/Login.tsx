@@ -41,7 +41,7 @@ export default function Login() {
       >
         <div className="px-6 py-8">
           <div className="text-center mb-8">
-            <h1 className="text-3xl font-bold text-blue-500">LinkPublisher</h1>
+            <h1 className="text-3xl font-bold text-blue-500">LinkHost</h1>
             <p className="text-gray-700 dark:text-gray-400 mt-2">
               Sign in to your account
             </p>
