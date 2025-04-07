@@ -17,7 +17,7 @@ export default function Dashboard() {
       exit={{ opacity: 0, y: -20 }}
       className="container mx-auto px-4 pt-20"
     >
-      <h1 className="text-2xl font-bold mb-8">Welcome to LinkPublisher</h1>
+      <h1 className="text-2xl font-bold mb-8">Welcome to LinkHost App</h1>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         {stats.map((stat, index) => (
