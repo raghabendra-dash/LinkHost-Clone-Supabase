@@ -71,9 +71,9 @@ export default function Navbar() {
                 <Link to="/">
                   <motion.span
                     whileHover={{ scale: 1.05 }}
-                    className="text-2xl font-bold bg-gradient-to-r from-red-700 via-orange-500 to-orange-400 text-transparent bg-clip-text"
+                    className="text-3xl font-bold bg-gradient-to-r from-red-700 via-orange-500 to-orange-400 text-transparent bg-clip-text"
                   >
-                    LinkPublisher
+                    LinkHost
                   </motion.span>
                 </Link>
               </div>
